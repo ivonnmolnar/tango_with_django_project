@@ -1,2 +1,2 @@
 ### INFO
-Currently at ch.4
+Starting ch.7
